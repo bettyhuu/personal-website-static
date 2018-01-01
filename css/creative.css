@@ -103,8 +103,8 @@ body {
         background-color: transparent; }
   @media (min-width: 992px) {
     #mainNav {
-      border-color: transparent;
-      background-color: transparent; }
+      border-color: black;
+      background-color: black; }
       #mainNav .navbar-brand {
         color: rgba(255, 255, 255, 0.7); }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
