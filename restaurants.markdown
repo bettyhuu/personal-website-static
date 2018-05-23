@@ -1,11 +1,11 @@
-#Boston
+# Boston
 Flour bakery + café -- sandwiches, coffee, chain
 Dumpling café -- south end/chinatown
 Summer shack -- seafood, back bay/cambridge
 Boston burger company -- fancy burgers, somerville/cambridge/back bay
 Wagamama -- seaport, Prudential, Cambridge, Asian fusion
 Bonchon
-##South End/Back Bay
+## South End/Back Bay
 Cornish pasty -- british
 Anoush'ella -- lebanese, mediterranean, armenian
 Pavement coffeehouse -- newbury, chain, coffee, lots of seats for studying
@@ -62,7 +62,7 @@ Roost bistro
 Itadaki izakaya
 Estragon -- tapas
 The oak room -- $$$, cocktails
-##North End
+## North End
 Pomodoro -- north end
 Mikes pastry -- north end
 North end fish market -- North end, sushi
@@ -73,7 +73,7 @@ Ward 8 -- cocktail bar, north end
 Bovas -- 24 hr, cannoli, calzone
 Monica's mercato - deli, sandwiches, open until 11p, wine
 North square oysters
-##Cambridge/Somerville
+## Cambridge/Somerville
 Sofra bakery -- jewish bakery, breakfast, watertown
 Painted burro -- Davis, mexican
 Border cafe -- Harvard, cheap mexican
@@ -112,7 +112,7 @@ Noca provisions -- café
 Sugidama Soba & Izakaya -- noodles, davis sq, izakay, sushi bar
 Martsa on elm -- himalayan/nepalese, davis sq, seafood
 Honeycomb creamery -- davis, ice cream
-##Seaport
+## Seaport
 Tavern road -- seaport, good late night, 5-7pm happy hour M-F
 Molly moos ice cream -- southie
 Sorelle -- seaport café
@@ -133,7 +133,7 @@ Coppersmith -- food trucks and rooftop bars
 Smoke shop -- bbq
 La casa de pedro tapas and ceviche bar
 Fromage -- broadway
-##Chinatown
+## Chinatown
 Dumpling house -- chinatown
 Jaho Coffee Roasters & wine bar -- chinatown, open late
 Shojo -- chinatown, asian fusion small plates/bar
@@ -149,7 +149,7 @@ BLR by Shojo
 Q instrument -- hot pot
 Shabu Zen
 Ruckus -- shojo, ramen
-##Downtown/FIDI
+## Downtown/FIDI
 Ogawa café -- downtown, good for studying, has lunch foods, matcha
 Explorateur -- cafe, restaurant
 Oisa Ramen Slurp & Go -- ramen
@@ -161,14 +161,14 @@ La colombe -- south station, cafe
 Amateras ramen
 O ya -- $$$$, sushi
 Parish Café -- chef created sandwiches, Arlington
-##Fenway
+## Fenway
 Hojoko -- fenway, asian fusion
 The Hawthorne -- cocktail bar, Cheese plates
 Jyuba
 Honeygrow
 Eventtide --  seafood
 Sweet cheeks q -- bbq
-##Allston
+## Allston
 Dolphin Bay -- Taiwanese, shaved snow, boba
 Coreanos -- korean fusion, Mexican
 Envoy Hotel -- igloo rooftop bar, dress code
@@ -199,10 +199,10 @@ Carrie Nation Cocktail Club
 Haley.henry wine bar
 Liberty hotel -- free coat check
 Yvonne's -- downtown, cocktails
-#Portland, maine
+# Portland, maine
 Bite of maine -- food truck, next to lighthouse amazing view
 Duckfat
-#San Francisco
+# San Francisco
 Limon Rotisserie - Mission, tapas
 The blue fig -- mission, breakfast, café
 Little gem -- hayes
@@ -267,7 +267,7 @@ Izakaya -- japantown, multiple locations, tapas
 Blue pea -- Asian fusion
 Pa'ina – hawaiian, japantown
 Big fish little fish -- poke, fidi
-##Mission
+## Mission
 Bond
 Skylark
 Zietgeist-- beer garden
@@ -277,22 +277,22 @@ Laszlo
 El techo
 The vestry -- church turned bar
 Latin america club -- super strong margaritas
-##Polk
+## Polk
 Soda popinski
 Lush lounge
 Playland
-##Soma
+## Soma
 Local edition
 Raven -- playland esque
 Biergarten -- civic center
 Novela -- bar
 Mikeller -- beer
 Bergerac -- lounge/bar, club upstairs
-##Japantown
+## Japantown
 Do re mi karoake
-##North beach
+## North beach
 Devils acre -- local ed owners
-#Oakland/Berkeley
+# Oakland/Berkeley
 Shandong restaurant -- oakland chinatown
 328 10th St, Oakland, CA 94607
 (b/t Webster St & Harrison St) in Oakland Chinatown
@@ -347,7 +347,7 @@ La panotiq - college, café
 Romeo's coffee
 Taphause - german pub, durant
 Spats - university
-#South Bay
+# South Bay
 Kotetsu, santa clara, ramen
 La panotiq - castro, café, study
 Red hot wok -- taiwanese, stevens creek
@@ -380,31 +380,31 @@ Le papillon -- french, $$$$
 Steins beer garden -- beer garden, american lounge food, mountain view castro
 Jack rose -- bar, los gatos
 Vino vino -- wine bar, sandwiches, salads, san pedro square
-##Sacramento
+## Sacramento
 Old soul co. -- midtown
 Yang's noodle
-##Los Angeles
+## Los Angeles
 Chosun -- ktowm, kbbq
 Redfin poke -- santa monica, chain
 Kazunori -- hand wraps, santa monica, chain
 Nature's brew -- USC, cafe, also alcohol
-##Philadelphia
+## Philadelphia
 Green egg café -- brunch
 Square one café -- café, super hipster
-##London
+## London
 Bosphorus Kebabs -- South Kensington, cash only, Turkish, hole in the wall
 Bone daddies -- ramen, soho
 Balans soho society -- kensington
 The wolsely -- afternoon tea, westminster
-##Amsterdam
+## Amsterdam
 Norling Restaurant -- tibetan
 Kantjil & de Tijger -- indonesian
-##Budapest
+## Budapest
 Hachapuri -- georgian
 Tamp & pull espresso bar
 Piknik pavilon -- hungarian, terrace
 Szimpla -- ruin bar
-##New York
+## New York
 Whynot coffee -- LES
 Umi sushi -- lexington/26th
 Gaia --italian, LES
@@ -436,10 +436,10 @@ The flat -- cafe, Williamsburg
 Cocoran -- Les, dipping soba
 Cafe Luxembourg -- brunch, french
 Sushi yasaka -- 45 dollar omakase
-#Chicago
+# Chicago
 Stans donut
 Au cheval
 Green street smoked meats -- bbq
 Intelligentsia coffee
-#Taipei
+# Taipei
 Bar pun -- xin yi an he 
