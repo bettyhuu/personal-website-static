@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "the list"
+categories: jekyll update
+---
 # Boston
 Flour bakery + café -- sandwiches, coffee, chain
 Dumpling café -- south end/chinatown
