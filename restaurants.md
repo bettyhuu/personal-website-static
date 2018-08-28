@@ -5,224 +5,225 @@ date: 2018-08-28 21:17:45 -0500
 categories: jekyll update
 ---
 # Boston
-Flour bakery + café -- sandwiches, coffee, chain
-Dumpling café -- south end/chinatown
-Summer shack -- seafood, back bay/cambridge
-Boston burger company -- fancy burgers, somerville/cambridge/back bay
-Wagamama -- seaport, Prudential, Cambridge, Asian fusion
+Flour bakery + café -- sandwiches, coffee, chain  
+Dumpling café -- south end/chinatown  
+Summer shack -- seafood, back bay/cambridge  
+Boston burger company -- fancy burgers, somerville/cambridge/back bay  
+Wagamama -- seaport, Prudential, Cambridge, Asian fusion  
 Bonchon
+
 ## South End/Back Bay
-Cornish pasty -- british
-Anoush'ella -- lebanese, mediterranean, armenian
-Pavement coffeehouse -- newbury, chain, coffee, lots of seats for studying
-Moon bar --  new american
-~~Tapeo -- Spanish, tapas, basque~~
-Caffebene -- back bay, asian coffee, bread, open late
-Barrington coffee roasting company -- newbury
-The elephant walk -- Cambodian, french
-La voile -- French, newbury
-Giacomo's -- italian
-Santouka ramen -- newbury
-Patisserie -- pastry, café, newbury
-Saltie girl -- back bay, seafood bar
-The friendly toast -- south end, open late
-KAVA neo-taverna -- greek
-Myers + chang -- asian fusion
-Stephis on tremont -- brunch
-Salty pig -- charcuterie
-Lolita's -- tequila, tapas
-Poke bento
-Srv -- italian, wine bar
-formaggio kitchen -- cheese shop
-Metropolis café -- mediterranean, wine bar
-Frenchie – wine bar $$$
-B&g oyster – raw bar, seafood $$$
-Trident café -- newbury, brunch
-South end buttery -- café, brunch, dinner
-Render coffee -- South end
-Oakleaf cakes -- symphony
-Five horses tavern -- south end
-Blackbird donut -- bay village
-Cinquecento
-The butcher shop
-Cafeteria -- newbury, brunch
-Coda bar and kitchen
-Sonsie -- brunch
-Dig inn -- healthy, copley
-Barcelona wine bar -- south end
-Banyan bar and refuge -- south end, Asian fusion, brunch, restaurant
-Eataly -- Prudential
-Love art sushi -- poke, sushi bowl
-Douza -- $$$, sushi
-Area four -- pizza, brunch
-Coppa -- italian
-Shabu Maru -- Japanese hot pot, copley
-Tremont 647 -- drinks, american
-Uni -- cocktails, sushi
-Gaslight -- french
-Luke's lobster -- lobster roll
-Terra -- eataly
-Toro -- Spanish tapas
-Frenchie -- brunch
-Roost bistro
-Itadaki izakaya
-Estragon -- tapas
-The oak room -- $$$, cocktails
-Select oyster bar -- newbury
+Cornish pasty -- british  
+Anoush'ella -- lebanese, mediterranean, armenian  
+Pavement coffeehouse -- newbury, chain, coffee, lots of seats for studying  
+Moon bar --  new american  
+~~Tapeo -- Spanish, tapas, basque~~  
+Caffebene -- back bay, asian coffee, bread, open late  
+Barrington coffee roasting company -- newbury  
+The elephant walk -- Cambodian, french  
+La voile -- French, newbury  
+Giacomo's -- italian  
+Santouka ramen -- newbury  
+Patisserie -- pastry, café, newbury  
+Saltie girl -- back bay, seafood bar  
+The friendly toast -- south end, open late  
+KAVA neo-taverna -- greek  
+Myers + chang -- asian fusion  
+Stephis on tremont -- brunch  
+Salty pig -- charcuterie  
+Lolita's -- tequila, tapas  
+Poke bento  
+Srv -- italian, wine bar  
+formaggio kitchen -- cheese shop  
+Metropolis café -- mediterranean, wine bar  
+Frenchie – wine bar $$$  
+B&g oyster – raw bar, seafood $$$  
+Trident café -- newbury, brunch  
+South end buttery -- café, brunch, dinner  
+Render coffee -- South end  
+Oakleaf cakes -- symphony  
+Five horses tavern -- south end  
+Blackbird donut -- bay village  
+Cinquecento  
+The butcher shop  
+Cafeteria -- newbury, brunch  
+Coda bar and kitchen  
+Sonsie -- brunch  
+Dig inn -- healthy, copley  
+Barcelona wine bar -- south end  
+Banyan bar and refuge -- south end, Asian fusion, brunch, restaurant  
+Eataly -- Prudential  
+Love art sushi -- poke, sushi bowl  
+Douza -- $$$, sushi  
+Area four -- pizza, brunch  
+Coppa -- italian  
+Shabu Maru -- Japanese hot pot, copley  
+Tremont 647 -- drinks, american  
+Uni -- cocktails, sushi  
+Gaslight -- french  
+Luke's lobster -- lobster roll  
+Terra -- eataly  
+Toro -- Spanish tapas  
+Frenchie -- brunch  
+Roost bistro  
+Itadaki izakaya  
+Estragon -- tapas  
+The oak room -- $$$, cocktails  
+Select oyster bar -- newbury  
 
 ## North End
-Pomodoro -- north end
-Mikes pastry -- north end
-North end fish market -- North end, sushi
-Modern pastry -- north end
-Crudo -- north end, sushi, fusion hip, 3-6 happy hour
-Thinking cup -- north end, café, no wifi
-Ward 8 -- cocktail bar, north end
-Bovas -- 24 hr, cannoli, calzone
-Monica's mercato - deli, sandwiches, open until 11p, wine
-North square oysters
+Pomodoro -- north end  
+Mikes pastry -- north end  
+North end fish market -- North end, sushi  
+Modern pastry -- north end  
+Crudo -- north end, sushi, fusion hip, 3-6 happy hour  
+Thinking cup -- north end, café, no wifi  
+Ward 8 -- cocktail bar, north end  
+Bovas -- 24 hr, cannoli, calzone  
+Monica's mercato - deli, sandwiches, open until 11p, wine  
+North square oysters  
 
 ## Cambridge/Somerville
-Sofra bakery -- jewish bakery, breakfast, watertown
-Painted burro -- Davis, mexican
-Border cafe -- Harvard, cheap mexican
-Mikes -- Davis, margarita pitchers
-Smoke shop -- bbq
-El petro -- Somerville, Mexican, margaritas
-Thelonius monkfish
-The people's republik -- cocktail bar/American food
-Pokeworks
-Green street -- bar, cocktails and craft beer
-Momi nonmi -- Hawaiian izakaya
-Manoa poke shop -- somerville
-Slumbrew -- somerville, brewery, charcuterie
-State park -- pool, pinball, food, late night, brunch, drinks
-Yume wo katare -- Porter, ramen, cash only
-Miracle of science -- Cambridge MIT, bar and restaurant
-Silvertone -- park street, american
-Area 4 -- Pizza
-Mulan restaurant -- taiwanese
-Pagu -- $$$, Japanese/Spanish
-Mamaleh's -- jewish delicatessen, kendall
-Little donkey – asian fusion, cambridge
-Tatte bakery -- cafe
-Toscanini's -- icis like, ice cream
-Happy Lamb hot pot -- free cotton candy
-American fresh brewhouse -- charcutetie and craft beer
-Tasting corner -- wine bar, tasting menu, Somerville
-Hops test kitchen and raw bar -- brunch, also whiskey bar
-Bagelsaurus
-Snappy ramen -- Davis
-Hokkaido ramen santouka -- harvard
-Felipe's -- Mexican, bar
-Cafe du pays -- french
-Café Luna -- brunch
-Noca provisions -- café
-Sugidama Soba & Izakaya -- noodles, davis sq, izakay, sushi bar
-Martsa on elm -- himalayan/nepalese, davis sq, seafood
-Honeycomb creamery -- davis, ice cream
-Loyal nine -- kendall, ultra hip coffee with patio, restaurant
-Curio coffee -- cambridge 
-Cafe sushi -- central
-Bourbon coffee -- Porter, cafe, smoothies, good for working 
-Broadstreet coffee roasters -- brunch, cambridge 
-Pagu cafe -- central 
+Sofra bakery -- jewish bakery, breakfast, watertown  
+Painted burro -- Davis, mexican  
+Border cafe -- Harvard, cheap mexican  
+Mikes -- Davis, margarita pitchers  
+Smoke shop -- bbq  
+El petro -- Somerville, Mexican, margaritas  
+Thelonius monkfish  
+The people's republik -- cocktail bar/American food  
+Pokeworks  
+Green street -- bar, cocktails and craft beer  
+Momi nonmi -- Hawaiian izakaya  
+Manoa poke shop -- somerville  
+Slumbrew -- somerville, brewery, charcuterie  
+State park -- pool, pinball, food, late night, brunch, drinks  
+Yume wo katare -- Porter, ramen, cash only  
+Miracle of science -- Cambridge MIT, bar and restaurant  
+Silvertone -- park street, american  
+Area 4 -- Pizza  
+Mulan restaurant -- taiwanese  
+Pagu -- $$$, Japanese/Spanish  
+Mamaleh's -- jewish delicatessen, kendall  
+Little donkey – asian fusion, cambridge  
+Tatte bakery -- cafe  
+Toscanini's -- icis like, ice cream  
+Happy Lamb hot pot -- free cotton candy  
+American fresh brewhouse -- charcutetie and craft beer  
+Tasting corner -- wine bar, tasting menu, Somerville  
+Hops test kitchen and raw bar -- brunch, also whiskey bar  
+Bagelsaurus  
+Snappy ramen -- Davis  
+Hokkaido ramen santouka -- harvard  
+Felipe's -- Mexican, bar  
+Cafe du pays -- french  
+Café Luna -- brunch  
+Noca provisions -- café  
+Sugidama Soba & Izakaya -- noodles, davis sq, izakay, sushi bar  
+Martsa on elm -- himalayan/nepalese, davis sq, seafood  
+Honeycomb creamery -- davis, ice cream  
+Loyal nine -- kendall, ultra hip coffee with patio, restaurant  
+Curio coffee -- cambridge  
+Cafe sushi -- central  
+Bourbon coffee -- Porter, cafe, smoothies, good for working  
+Broadstreet coffee roasters -- brunch, cambridge  
+Pagu cafe -- central  
 
 ## Seaport
-Tavern road -- seaport, good late night, 5-7pm happy hour M-F
-Molly moos ice cream -- southie
-Sorelle -- seaport café
-Tuscan kitchen
-Pastoral
-Sportello -- pasta
-Papagayo -- Mexican, seaport, margarita pitchers
-James Hook and co. -- summer shack esque
-The barking crab -- seafood
-Publico street bistro & garden -- southie
-Morton's steakhouse -- $$
-Committee -- mediterranean, brunch, cocktails
-Outlook kitchen and bar -- envoy hotel
-City tap house
-wagamama
-Lolita's cocina and tequila bar
-Coppersmith -- food trucks and rooftop bars
-Smoke shop -- bbq
-La casa de pedro tapas and ceviche bar
-Fromage -- broadway
+Tavern road -- seaport, good late night, 5-7pm happy hour M-F  
+Molly moos ice cream -- southie  
+Sorelle -- seaport café  
+Tuscan kitchen  
+Pastoral  
+Sportello -- pasta  
+Papagayo -- Mexican, seaport, margarita pitchers  
+James Hook and co. -- summer shack esque  
+The barking crab -- seafood  
+Publico street bistro & garden -- southie  
+Morton's steakhouse -- $$  
+Committee -- mediterranean, brunch, cocktails  
+Outlook kitchen and bar -- envoy hotel  
+City tap house  
+wagamama  
+Lolita's cocina and tequila bar  
+Coppersmith -- food trucks and rooftop bars  
+Smoke shop -- bbq  
+La casa de pedro tapas and ceviche bar  
+Fromage -- broadway  
 
 ## Chinatown
-Dumpling house -- chinatown
-Jaho Coffee Roasters & wine bar -- chinatown, open late
-Shojo -- chinatown, asian fusion small plates/bar
-Hot eastern
-Windsor cafe -- dim sum
-5 spices house
-Crave -- chinatown, korean fried chicken/japanese place
-Pho pasteur -- chinatown
-China pearl -- dim sum, chinatown
-Gene's Flatbread café -- hand pulled noodles
-Taiwan café
-BLR by Shojo
-Q instrument -- hot pot
-Shabu Zen
-Ruckus -- shojo, ramen
+Dumpling house -- chinatown  
+Jaho Coffee Roasters & wine bar -- chinatown, open late  
+Shojo -- chinatown, asian fusion small plates/bar  
+Hot eastern  
+Windsor cafe -- dim sum  
+5 spices house  
+Crave -- chinatown, korean fried chicken/japanese place  
+Pho pasteur -- chinatown  
+China pearl -- dim sum, chinatown  
+Gene's Flatbread café -- hand pulled noodles  
+Taiwan café  
+BLR by Shojo  
+Q instrument -- hot pot  
+Shabu Zen  
+Ruckus -- shojo, ramen  
 
 ## Downtown/FIDI
-Ogawa café -- downtown, good for studying, has lunch foods, matcha
-Explorateur -- cafe, restaurant
-Oisa Ramen Slurp & Go -- ramen
-Bogie's place -- steakhouse, $$$, south station
-George howell coffee -- downtown crossing, coffee
-Thinking cup coffee bar -- downtown crossing, also has lunch food
-Good life -- basement club, also food
-La colombe -- south station, cafe
-Amateras ramen
-O ya -- $$$$, sushi
-Parish Café -- chef created sandwiches, Arlington
+Ogawa café -- downtown, good for studying, has lunch foods, matcha  
+Explorateur -- cafe, restaurant  
+Oisa Ramen Slurp & Go -- ramen  
+Bogie's place -- steakhouse, $$$, south station  
+George howell coffee -- downtown crossing, coffee  
+Thinking cup coffee bar -- downtown crossing, also has lunch food  
+Good life -- basement club, also food  
+La colombe -- south station, cafe  
+Amateras ramen  
+O ya -- $$$$, sushi  
+Parish Café -- chef created sandwiches, Arlington  
 
 ## Fenway
-Hojoko -- fenway, asian fusion
-The Hawthorne -- cocktail bar, Cheese plates
-Jyuba
-Honeygrow
-Eventtide --seafood
-Sweet cheeks q -- bbq
-eastern standard -- cocktails, sit down new american, dessert
-Nathalie wine bar -- sister to Haley.henry 
+Hojoko -- fenway, asian fusion  
+The Hawthorne -- cocktail bar, Cheese plates  
+Jyuba  
+Honeygrow  
+Eventtide --seafood  
+Sweet cheeks q -- bbq  
+eastern standard -- cocktails, sit down new american, dessert  
+Nathalie wine bar -- sister to Haley.henry  
 
 ## Allston
-Dolphin Bay -- Taiwanese, shaved snow, boba
-Coreanos -- korean fusion, Mexican
-Gen sou en -- teahouse, brookline 
+Dolphin Bay -- Taiwanese, shaved snow, boba  
+Coreanos -- korean fusion, Mexican  
+Gen sou en -- teahouse, brookline   
 
-Envoy Hotel -- igloo rooftop bar, dress code
-Phoenix landing -- cambridge
-The burren -- somerville, restaurant + back room live bands
-Lucky's -- southie
-Scholars -- Cambridge, pool
-Wink and nod -- south end
-American fresh brewhouse -- Somerville
-Highball lounge -- cocktails, shitty board games
-Ned devine -- fanieul hall
-Anthem -- fanieul hall
-The trophy room -- back bay
-Hong kong -- north end
-Brick and mortar -- Cambridge
-Whiskey priest -- seaport
-Asgard -- cambridge
-Harpoon -- seaport
-The wild rover -- fanieul, cheap, ratchet
-Can tab -- cambridge
-Middlesex lounge -- cambridge
-Drink -- seaport
-Clerys -- back bay
-Brahmin -- back bay
-Kings -- pool, bowling, bar, back bay
-Wally's -- jazz club
-Carrie Nation Cocktail Club
-Haley.henry wine bar
-Liberty hotel -- free coat check
-Yvonne's -- downtown, cocktails
+Envoy Hotel -- igloo rooftop bar, dress code  
+Phoenix landing -- cambridge  
+The burren -- somerville, restaurant + back room live bands  
+Lucky's -- southie  
+Scholars -- Cambridge, pool  
+Wink and nod -- south end  
+American fresh brewhouse -- Somerville  
+Highball lounge -- cocktails, shitty board games  
+Ned devine -- fanieul hall  
+Anthem -- fanieul hall  
+The trophy room -- back bay  
+Hong kong -- north end  
+Brick and mortar -- Cambridge  
+Whiskey priest -- seaport  
+Asgard -- cambridge  
+Harpoon -- seaport  
+The wild rover -- fanieul, cheap, ratchet  
+Can tab -- cambridge  
+Middlesex lounge -- cambridge  
+Drink -- seaport  
+Clerys -- back bay  
+Brahmin -- back bay  
+Kings -- pool, bowling, bar, back bay  
+Wally's -- jazz club  
+Carrie Nation Cocktail Club  
+Haley.henry wine bar  
+Liberty hotel -- free coat check  
+Yvonne's -- downtown, cocktails  
 
 # Portland, maine
 Bite of maine -- food truck, next to lighthouse amazing view
