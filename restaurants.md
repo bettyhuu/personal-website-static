@@ -16,7 +16,7 @@ Cornish pasty -- british
 Anoush'ella -- lebanese, mediterranean, armenian  
 Pavement coffeehouse -- newbury, chain, coffee, lots of seats for studying  
 Moon bar --  new american  
-Tapeo -- Spanish, tapas, basque  
+~~Tapeo -- Spanish, tapas, basque~~  
 Caffebene -- back bay, asian coffee, bread, open late  
 Barrington coffee roasting company -- newbury  
 The elephant walk -- Cambodian, french  
