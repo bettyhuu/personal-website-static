@@ -226,275 +226,275 @@ Liberty hotel -- free coat check
 Yvonne's -- downtown, cocktails  
 
 # Portland, maine
-Bite of maine -- food truck, next to lighthouse amazing view
-Duckfat
+Bite of maine -- food truck, next to lighthouse amazing view  
+Duckfat  
 
 # San Francisco
-Limon Rotisserie - Mission, tapas
-The blue fig -- mission, breakfast, café
-Little gem -- hayes
-The monk's kettle -- mission, beer, american food
-Lolo - mission, dinner
-Dirty habit -- soma
-Dumpling time -- mission bay
-Kit tea -- cat cafe
-Sightglass -- soma
-Hope and hominy – soma, southern food, tapas
-Mellow Mellow - Haight-Ashbury, café
-Gigis--seafood -- north beach
-Dumpling kitchen -- sunset
-Outerlands - brunch - inner sunset
-Plentea -- boba near fidi
-Taste of Formosa -- taiwanese, outer richmond
-Chubby noodle -- north beach, asian fusion, bar
-El farolito, tlc -- drunchies mexican, mission
-Sanraku -- powell, sushi
-Garaje -- mexican, at&t, cash only
-La urbana -- mexican, drinks, hipster chevys, divisadero
-Salumeria -- sandwiches, mission
-Le colonial -- union square, $$$ Vietnamese/french
-Little gem -- cafe, haye valley
-Galette 88 -- fidi, crepes
-Cafe de la presse -- dinner lunch breakdast union square
-Atlas cafe -- mission, cafe
-Zero zero -- soma, italian, pizza, lounge
-Sugarfina -- soma, gourmet candy
-Akikos -- soma, sushi
-The social study -- cafe by day, bar by night, japantown
-Little luccas -- ssf, sandwich
-Sightglass -- so
-Sankesan -- sushi, inner sunset
-707 sutter -- soma, korean
-Four barrel coffee -- cafe, mission
-The vestry -- american, mission, bottomless brunch
-YaqiniQ -- all you can eat kbbq, japantown
-YaqiniQ -- cafe, japantown
-Epicenter café -- café, soma
-Samovar tea -- tea, sandwiches, yerba buena
-Ritual coffee roaster - mission, cafe
-Little star pizza -- divisidero, mission
-Golden boy -- pizza, north beach
-The creamery -- café, 4th/king soma caltrain
-San tung -- chicken wings, sunset
-La promenade cafe -- lots of seats, outer richmond
-Stanza coffee -- mission, good study cafe
-Bar crudo -- happy hour oysters, seafood, haight
-Workshop café -- lots of seating/outlets, fidi
-Katana-ya -- ramen, soma
-Borderlands books -- scifi, cafe, valencia
-Taqueria cancun -- mission, mexican
-imagiknit - knitting store, dolores park
-L'cocina -- cafe, tea, gelato, Westfield top floor
-Butterfly -- asian fusion, $$$, embarcadero
-Tropisueno – mexican, soma
-Ginto -- soma, izakaya
-Mau -- Vietnamese, mission
-Farmhouse kitchen Thai cuisine
-Izakaya -- japantown, multiple locations, tapas
-Blue pea -- Asian fusion
-Pa'ina – hawaiian, japantown
-Big fish little fish -- poke, fidi
-statebird provisions -- \*, dim sum style
-Rooster & rice -- Vietnamese rice with chicken like Hainan chicken, chain
-Stonemill matcha
-Asha tea
-Saint Frank's -- Russian hill, cafe
-Fueling station -- Russian hill, cafe with more food
-Dynamo -- coffee, donuts, mission
+Limon Rotisserie - Mission, tapas  
+The blue fig -- mission, breakfast, café  
+Little gem -- hayes  
+The monk's kettle -- mission, beer, american food  
+Lolo - mission, dinner  
+Dirty habit -- soma  
+Dumpling time -- mission bay  
+Kit tea -- cat cafe  
+Sightglass -- soma  
+Hope and hominy – soma, southern food, tapas  
+Mellow Mellow - Haight-Ashbury, café  
+Gigis--seafood -- north beach  
+Dumpling kitchen -- sunset  
+Outerlands - brunch - inner sunset  
+Plentea -- boba near fidi  
+Taste of Formosa -- taiwanese, outer richmond  
+Chubby noodle -- north beach, asian fusion, bar  
+El farolito, tlc -- drunchies mexican, mission  
+Sanraku -- powell, sushi  
+Garaje -- mexican, at&t, cash only  
+La urbana -- mexican, drinks, hipster chevys, divisadero  
+Salumeria -- sandwiches, mission  
+Le colonial -- union square, $$$ Vietnamese/french  
+Little gem -- cafe, haye valley  
+Galette 88 -- fidi, crepes  
+Cafe de la presse -- dinner lunch breakdast union square  
+Atlas cafe -- mission, cafe  
+Zero zero -- soma, italian, pizza, lounge  
+Sugarfina -- soma, gourmet candy  
+Akikos -- soma, sushi  
+The social study -- cafe by day, bar by night, japantown  
+Little luccas -- ssf, sandwich  
+Sightglass -- so  
+Sankesan -- sushi, inner sunset  
+707 sutter -- soma, korean  
+Four barrel coffee -- cafe, mission  
+The vestry -- american, mission, bottomless brunch  
+YaqiniQ -- all you can eat kbbq, japantown  
+YaqiniQ -- cafe, japantown  
+Epicenter café -- café, soma  
+Samovar tea -- tea, sandwiches, yerba buena  
+Ritual coffee roaster - mission, cafe  
+Little star pizza -- divisidero, mission  
+Golden boy -- pizza, north beach  
+The creamery -- café, 4th/king soma caltrain  
+San tung -- chicken wings, sunset  
+La promenade cafe -- lots of seats, outer richmond  
+Stanza coffee -- mission, good study cafe  
+Bar crudo -- happy hour oysters, seafood, haight  
+Workshop café -- lots of seating/outlets, fidi  
+Katana-ya -- ramen, soma  
+Borderlands books -- scifi, cafe, valencia  
+Taqueria cancun -- mission, mexican  
+imagiknit - knitting store, dolores park  
+L'cocina -- cafe, tea, gelato, Westfield top floor  
+Butterfly -- asian fusion, $$$, embarcadero  
+Tropisueno – mexican, soma  
+Ginto -- soma, izakaya  
+Mau -- Vietnamese, mission  
+Farmhouse kitchen Thai cuisine  
+Izakaya -- japantown, multiple locations, tapas  
+Blue pea -- Asian fusion  
+Pa'ina – hawaiian, japantown  
+Big fish little fish -- poke, fidi  
+statebird provisions -- \*, dim sum style  
+Rooster & rice -- Vietnamese rice with chicken like Hainan chicken, chain  
+Stonemill matcha  
+Asha tea  
+Saint Frank's -- Russian hill, cafe  
+Fueling station -- Russian hill, cafe with more food  
+Dynamo -- coffee, donuts, mission  
 
 ## Mission
-Bond
-Skylark
-Zietgeist-- beer garden
-Elbo room
-Lolinda
-Laszlo
-El techo
-The vestry -- church turned bar
-Latin america club -- super strong margaritas
+Bond  
+Skylark  
+Zietgeist-- beer garden  
+Elbo room  
+Lolinda  
+Laszlo  
+El techo  
+The vestry -- church turned bar  
+Latin america club -- super strong margaritas  
 
 ## Polk
-Soda popinski
-Lush lounge
-Playland
+Soda popinski  
+Lush lounge  
+Playland  
 
 ## Soma
-Local edition
-Raven -- playland esque
-Biergarten -- civic center
-Novela -- bar
-Mikeller -- beer
-Bergerac -- lounge/bar, club upstairs
+Local edition  
+Raven -- playland esque  
+Biergarten -- civic center  
+Novela -- bar  
+Mikeller -- beer  
+Bergerac -- lounge/bar, club upstairs  
 
 ## Japantown
-Do re mi karoake
+Do re mi karoake  
 
 ## North beach
-Devils acre -- local ed owners
+Devils acre -- local ed owners  
 
 # Oakland/Berkeley
-Shandong restaurant -- oakland chinatown
-328 10th St, Oakland, CA 94607
-(b/t Webster St & Harrison St) in Oakland Chinatown
-Tasty pot -- taiwanese hot pot, kittredge
-Sodoi -- cafe, durant in shop alley
-Belly uptown -- oakland, asian fusion tacos
-Kaze ramen - shattuck, ramen
-Taiwan Bento - oakland
-Hot pot house -- oakland, chinatown
-Bowl'd -- telegraph
-Kirala -- Japanese, shattuck
-Simply bowld -- poke bowl, university
-Musashi -- japanese, grill, shattuck/dwight
-Jong ga house -- kbbq, oakland
-Imperial tea court-- Gourmet Ghetto, Chinese, tea room
-Berkeley espresso -- shattuck, cafe
-Vampire penguin -- shaved snow, telegraph
-The tearoom -- college, tea room + small sandwiches
-home of chicken and waffles -- oakland, jack london, late night
-Gregoires
-Eureka
-Manpuku - ramen
-Noodle theory - asian fusion
-Toss
-Imm Thai Street food - thai, university
-Cinnaholic
-Farleys east -- cafe, sandwiches, oakland
-Townie -- american
-Masses -- macarrons, bakery, gourmet ghetto
-Home of chicken and waffles -- chicken & waffles, jack London square
-900 grayson -- brunch, chicken & waffles, emeryville
-Kang tong degi -- korean, chicken, telegraph, open late
-Victory point cafe -- gourmet ghetto, board games
-The french hotel -- gourmet ghetto, café
-Caffe 817 -- oakland, brunch/cafe
-Platano -- university, Salvadoran food
-Little gem -- telegraph, belgian waffle
-Noodle theory -- asian fusion, college
-Akemi -- japanese, berkeley hills
-Soi 4 Bangkok Eatery -- thai, trendy ambiance, north oakland
-Five -- brunch, bottomless mimosas, shattuck
-Lindgrens -- café, brunch, mimosas, shattuck/dwight
-Bittersweet chocolate cafe -- college, cafe
-Face to face -- milvia, Chinese noodles
-Thai temple -- university, actual temple, cash only
-Brazil cafe -- university, tri trip
-Artis coffee -- fourth street, coffee
-Flour & co -- university, coffee
-Algorithm coffee co -- fourth street, coffee, lots of outlets
-The stroopie gourmet -- stroopwaffels, oakland
-La panotiq - college, café
-Romeo's coffee
-Taphause - german pub, durant
-Spats - university
+Shandong restaurant -- oakland chinatown  
+328 10th St, Oakland, CA 94607  
+(b/t Webster St & Harrison St) in Oakland Chinatown  
+Tasty pot -- taiwanese hot pot, kittredge  
+Sodoi -- cafe, durant in shop alley  
+Belly uptown -- oakland, asian fusion tacos  
+Kaze ramen - shattuck, ramen  
+Taiwan Bento - oakland  
+Hot pot house -- oakland, chinatown  
+Bowl'd -- telegraph  
+Kirala -- Japanese, shattuck  
+Simply bowld -- poke bowl, university  
+Musashi -- japanese, grill, shattuck/dwight  
+Jong ga house -- kbbq, oakland  
+Imperial tea court-- Gourmet Ghetto, Chinese, tea room  
+Berkeley espresso -- shattuck, cafe  
+Vampire penguin -- shaved snow, telegraph  
+The tearoom -- college, tea room + small sandwiches  
+home of chicken and waffles -- oakland, jack london, late night  
+Gregoires  
+Eureka  
+Manpuku - ramen  
+Noodle theory - asian fusion  
+Toss  
+Imm Thai Street food - thai, university  
+Cinnaholic  
+Farleys east -- cafe, sandwiches, oakland  
+Townie -- american  
+Masses -- macarrons, bakery, gourmet ghetto  
+Home of chicken and waffles -- chicken & waffles, jack London square  
+900 grayson -- brunch, chicken & waffles, emeryville  
+Kang tong degi -- korean, chicken, telegraph, open late  
+Victory point cafe -- gourmet ghetto, board games  
+The french hotel -- gourmet ghetto, café  
+Caffe 817 -- oakland, brunch/cafe  
+Platano -- university, Salvadoran food  
+Little gem -- telegraph, belgian waffle  
+Noodle theory -- asian fusion, college  
+Akemi -- japanese, berkeley hills  
+Soi 4 Bangkok Eatery -- thai, trendy ambiance, north oakland  
+Five -- brunch, bottomless mimosas, shattuck  
+Lindgrens -- café, brunch, mimosas, shattuck/dwight  
+Bittersweet chocolate cafe -- college, cafe  
+Face to face -- milvia, Chinese noodles  
+Thai temple -- university, actual temple, cash only  
+Brazil cafe -- university, tri trip  
+Artis coffee -- fourth street, coffee  
+Flour & co -- university, coffee  
+Algorithm coffee co -- fourth street, coffee, lots of outlets  
+The stroopie gourmet -- stroopwaffels, oakland  
+La panotiq - college, café  
+Romeo's coffee  
+Taphause - german pub, durant  
+Spats - university  
 
 # South Bay
-Kotetsu, santa clara, ramen
-La panotiq - castro, café, study
-Red hot wok -- taiwanese, stevens creek
-Gangnam chicken -- san mateo -- korean chicken
-Popbar -- saratoga, ice cream/gelato/fruit dipped in chocolate
-Maruichi - ramen, milpitas
-Pepper lunch - japanese, sizzling plate milpitas
-Sp2 communal bar and restaurant -- downtown sj
-The table -- downtown willow glen, brunch
-Stacks -- downtown campbell, brunch
-Southern kitchen -- los gatos, brunch
-China stix -- dim sum, santa clara, juan ruan lou
-Red rock coffee co -- castro, mountain view, cafe
-Hi pot -- taiwanese, stevens creek
-Liangs village -- taiwanese, stevens creek
-Konjoe burger -- asian fusion, san pedro square
-Bitter + sweet -- coffee, dessert, ice cream, de anza
-asian box -- bento, castro
-Indo -- thai, asian fusion, palo alto
-Chromatic coffee -- cafe, lawrence plaza
-B2 coffee -- san pedro square, cafe
-Bonchon -- korean chicken, sunnyvale
-Buffalo -- asian fusion, baos, downtown mountain view
-Cocola -- cafe, tritrip sandwich, santana row
-Forbes mill steakhouse -- downtown los gatos, fanceh
-Fusion house -- taiwan, fremont
-Grand harbor -- taiwan, fremont
-Bird dog -- \*, Palo alto
-Le papillon -- french, $$$$
-Steins beer garden -- beer garden, american lounge food, mountain view castro
-Jack rose -- bar, los gatos
-Vino vino -- wine bar, sandwiches, salads, san pedro square
+Kotetsu, santa clara, ramen  
+La panotiq - castro, café, study  
+Red hot wok -- taiwanese, stevens creek  
+Gangnam chicken -- san mateo -- korean chicken  
+Popbar -- saratoga, ice cream/gelato/fruit dipped in chocolate  
+Maruichi - ramen, milpitas  
+Pepper lunch - japanese, sizzling plate milpitas  
+Sp2 communal bar and restaurant -- downtown sj  
+The table -- downtown willow glen, brunch  
+Stacks -- downtown campbell, brunch  
+Southern kitchen -- los gatos, brunch  
+China stix -- dim sum, santa clara, juan ruan lou  
+Red rock coffee co -- castro, mountain view, cafe  
+Hi pot -- taiwanese, stevens creek  
+Liangs village -- taiwanese, stevens creek  
+Konjoe burger -- asian fusion, san pedro square  
+Bitter + sweet -- coffee, dessert, ice cream, de anza  
+asian box -- bento, castro  
+Indo -- thai, asian fusion, palo alto  
+Chromatic coffee -- cafe, lawrence plaza  
+B2 coffee -- san pedro square, cafe  
+Bonchon -- korean chicken, sunnyvale  
+Buffalo -- asian fusion, baos, downtown mountain view  
+Cocola -- cafe, tritrip sandwich, santana row  
+Forbes mill steakhouse -- downtown los gatos, fanceh  
+Fusion house -- taiwan, fremont  
+Grand harbor -- taiwan, fremont  
+Bird dog -- \*, Palo alto  
+Le papillon -- french, $$$$  
+Steins beer garden -- beer garden, american lounge food, mountain view castro  
+Jack rose -- bar, los gatos  
+Vino vino -- wine bar, sandwiches, salads, san pedro square  
 
 ## Sacramento
-Old soul co. -- midtown
-Yang's noodle
+Old soul co. -- midtown  
+Yang's noodle  
 
 ## Los Angeles
-Chosun -- ktowm, kbbq
-Redfin poke -- santa monica, chain
-Kazunori -- hand wraps, santa monica, chain
-Nature's brew -- USC, cafe, also alcohol
+Chosun -- ktowm, kbbq  
+Redfin poke -- santa monica, chain  
+Kazunori -- hand wraps, santa monica, chain  
+Nature's brew -- USC, cafe, also alcohol  
 
 ## Philadelphia
-Green egg café -- brunch
-Square one café -- café, super hipster
+Green egg café -- brunch  
+Square one café -- café, super hipster  
 
 ## London
-Bosphorus Kebabs -- South Kensington, cash only, Turkish, hole in the wall
-Bone daddies -- ramen, soho
-Balans soho society -- kensington
-The wolsely -- afternoon tea, westminster
+Bosphorus Kebabs -- South Kensington, cash only, Turkish, hole in the wall  
+Bone daddies -- ramen, soho  
+Balans soho society -- kensington  
+The wolsely -- afternoon tea, westminster  
 
 ## Amsterdam
-Norling Restaurant -- tibetan
-Kantjil & de Tijger -- indonesian
+Norling Restaurant -- tibetan  
+Kantjil & de Tijger -- indonesian  
 
 ## Budapest
-Hachapuri -- georgian
-Tamp & pull espresso bar
-Piknik pavilon -- hungarian, terrace
-Szimpla -- ruin bar
+Hachapuri -- georgian  
+Tamp & pull espresso bar  
+Piknik pavilon -- hungarian, terrace  
+Szimpla -- ruin bar  
 
 ## New York
-Whynot coffee -- LES
-Umi sushi -- lexington/26th
-Gaia --italian, LES
-Momofuku
-Birds of a feather -- Williamsburg
-Aska -- \*\*, Scandinavian, williamsburg
-Sweatshop -- williamsburg, breakfast/brunch/coffeshop
-Congee village -- chinese, les
-Baohaus -- les
-La goulette -- tunisian/mediterranean, williamsburg
-Post office -- Williamsburg, whiskey
-Joe's pizza -- chain
-Idea cafe -- good for work
-Dō -- cookie dough
-Northerly coffee -- williamsburg
-Ootoya -- japanese
-Marharlika -- east village, fillipino
-Veselka -- jewish
-Stick with me -- chocolate, Soho
-Kimpton hotel event -- coffee and bar, Penn station
-Pouring ribbons -- cocktail, les
-Allora ristorante -- Italian, midtown $$
-Midwinter kitchen -- les, farm to table, good brunch
-Doughnut plant -- Chelsea
-Very fresh noodles -- chelsea, hand pulled beef noodles
-Rikos Peruvian cuisine -- midtown east
-Devocion -- cafe, williamsburg
-The flat -- cafe, Williamsburg
-Cocoran -- Les, dipping soba
-Cafe Luxembourg -- brunch, french
-Sushi yasaka -- 45 dollar omakase
-Pig & khao -- Les, brunch, fillipino
-12 chairs -- williamsburg brunch, cafe
-kang ho dong baek jeong -- ktown kbbq
-Beauty & Essex -- speakeasy restaurant, LES
-Spreadhouse -- Les cafe, beer, food
+Whynot coffee -- LES  
+Umi sushi -- lexington/26th  
+Gaia --italian, LES  
+Momofuku  
+Birds of a feather -- Williamsburg  
+Aska -- \*\*, Scandinavian, williamsburg  
+Sweatshop -- williamsburg, breakfast/brunch/coffeshop  
+Congee village -- chinese, les  
+Baohaus -- les  
+La goulette -- tunisian/mediterranean, williamsburg  
+Post office -- Williamsburg, whiskey  
+Joe's pizza -- chain  
+Idea cafe -- good for work  
+Dō -- cookie dough  
+Northerly coffee -- williamsburg  
+Ootoya -- japanese  
+Marharlika -- east village, fillipino  
+Veselka -- jewish  
+Stick with me -- chocolate, Soho  
+Kimpton hotel event -- coffee and bar, Penn station  
+Pouring ribbons -- cocktail, les  
+Allora ristorante -- Italian, midtown $$  
+Midwinter kitchen -- les, farm to table, good brunch  
+Doughnut plant -- Chelsea  
+Very fresh noodles -- chelsea, hand pulled beef noodles  
+Rikos Peruvian cuisine -- midtown east  
+Devocion -- cafe, williamsburg  
+The flat -- cafe, Williamsburg  
+Cocoran -- Les, dipping soba  
+Cafe Luxembourg -- brunch, french  
+Sushi yasaka -- 45 dollar omakase  
+Pig & khao -- Les, brunch, fillipino  
+12 chairs -- williamsburg brunch, cafe  
+kang ho dong baek jeong -- ktown kbbq  
+Beauty & Essex -- speakeasy restaurant, LES  
+Spreadhouse -- Les cafe, beer, food  
 
 # Chicago
-Stans donut
-Au cheval
-Green street smoked meats -- bbq
-Intelligentsia coffee
+Stans donut  
+Au cheval  
+Green street smoked meats -- bbq  
+Intelligentsia coffee  
 
 # Taipei
-Bar pun -- xin yi an he 
+Bar pun -- xin yi an he  
