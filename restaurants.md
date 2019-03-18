@@ -69,7 +69,11 @@ Roost bistro
 Itadaki izakaya  
 Estragon -- tapas  
 The oak room -- $$$, cocktails  
-Select oyster bar -- newbury  
+Select oyster bar -- newbury
+Bar mezzana
+Greco -- fast casual greek
+Darryl's -- soul food, sax music, good for brunch
+Mike's city diner  
 
 ## North End
 Pomodoro -- north end  
@@ -126,8 +130,13 @@ Loyal nine -- kendall, ultra hip coffee with patio, restaurant
 Curio coffee -- cambridge  
 Cafe sushi -- central  
 Bourbon coffee -- Porter, cafe, smoothies, good for working  
-Broadstreet coffee roasters -- brunch, cambridge  
-Pagu cafe -- central  
+Broadstreet coffee roasters -- brunch, cambridge
+Pagu cafe -- central
+Yume ga arukara -- udon, katare sister restaurant
+Abide -- inside middlesex lounge, boba
+Forge cafe -- Somerville, also ice cream
+Momo n curry -- Somerville
+Juliet -- cafe, brunch, fine dining dinner, union sq
 
 ## Seaport
 Tavern road -- seaport, good late night, 5-7pm happy hour M-F  
@@ -150,6 +159,9 @@ Coppersmith -- food trucks and rooftop bars
 Smoke shop -- bbq  
 La casa de pedro tapas and ceviche bar  
 Fromage -- broadway  
+Gather
+Bartaco
+Fuku – david chang
 
 ## Chinatown
 Dumpling house -- chinatown  
@@ -180,6 +192,9 @@ La colombe -- south station, cafe
 Amateras ramen  
 O ya -- $$$$, sushi  
 Parish Café -- chef created sandwiches, Arlington  
+Mike & Patty's
+Nahita -- latin-asian, cocktails, ceviche
+Kamakura -- Japanese, rooftop lounge
 
 ## Fenway
 Hojoko -- fenway, asian fusion  
@@ -190,11 +205,20 @@ Eventtide --seafood
 Sweet cheeks q -- bbq  
 eastern standard -- cocktails, sit down new american, dessert  
 Nathalie wine bar -- sister to Haley.henry  
+Futago udon
 
 ## Allston
 Dolphin Bay -- Taiwanese, shaved snow, boba  
 Coreanos -- korean fusion, Mexican  
 Gen sou en -- teahouse, brookline   
+Cafe landwer -- open until 10p everyday
+Laughing Monk cafe -- omakase
+Glenville stops -- $1 oysters!
+
+## Jamaica Plain
+Chilacates
+City feed -- coffee, sandwiches
+Tres Gatos -- tapas
 
 Envoy Hotel -- igloo rooftop bar, dress code  
 Phoenix landing -- cambridge  
