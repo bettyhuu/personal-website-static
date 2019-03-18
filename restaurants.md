@@ -4,7 +4,7 @@ title: "the list"
 date: 2018-08-28 21:17:45 -0500
 categories: jekyll update
 ---
-# Boston
+## Boston
 Flour bakery + café -- sandwiches, coffee, chain  
 Dumpling café -- south end/chinatown  
 Summer shack -- seafood, back bay/cambridge  
@@ -12,7 +12,7 @@ Boston burger company -- fancy burgers, somerville/cambridge/back bay
 Wagamama -- seaport, Prudential, Cambridge, Asian fusion  
 Bonchon
 
-## South End/Back Bay
+### South End/Back Bay
 Cornish pasty -- british  
 Anoush'ella -- lebanese, mediterranean, armenian  
 Pavement coffeehouse -- newbury, chain, coffee, lots of seats for studying  
@@ -75,7 +75,7 @@ Greco -- fast casual greek
 Darryl's -- soul food, sax music, good for brunch
 Mike's city diner  
 
-## North End
+### North End
 Pomodoro -- north end  
 Mikes pastry -- north end  
 North end fish market -- North end, sushi  
@@ -87,7 +87,7 @@ Bovas -- 24 hr, cannoli, calzone
 Monica's mercato - deli, sandwiches, open until 11p, wine  
 North square oysters  
 
-## Cambridge/Somerville
+### Cambridge/Somerville
 Sofra bakery -- jewish bakery, breakfast, watertown  
 Painted burro -- Davis, mexican  
 Border cafe -- Harvard, cheap mexican  
@@ -138,7 +138,7 @@ Forge cafe -- Somerville, also ice cream
 Momo n curry -- Somerville
 Juliet -- cafe, brunch, fine dining dinner, union sq
 
-## Seaport
+#### Seaport
 Tavern road -- seaport, good late night, 5-7pm happy hour M-F  
 Molly moos ice cream -- southie  
 Sorelle -- seaport café  
@@ -163,7 +163,7 @@ Gather
 Bartaco
 Fuku – david chang
 
-## Chinatown
+### Chinatown
 Dumpling house -- chinatown  
 Jaho Coffee Roasters & wine bar -- chinatown, open late  
 Shojo -- chinatown, asian fusion small plates/bar  
@@ -180,7 +180,7 @@ Q instrument -- hot pot
 Shabu Zen  
 Ruckus -- shojo, ramen  
 
-## Downtown/FIDI
+### Downtown/FIDI
 Ogawa café -- downtown, good for studying, has lunch foods, matcha  
 Explorateur -- cafe, restaurant  
 Oisa Ramen Slurp & Go -- ramen  
@@ -196,7 +196,7 @@ Mike & Patty's
 Nahita -- latin-asian, cocktails, ceviche
 Kamakura -- Japanese, rooftop lounge
 
-## Fenway
+### Fenway
 Hojoko -- fenway, asian fusion  
 The Hawthorne -- cocktail bar, Cheese plates  
 Jyuba  
@@ -207,7 +207,7 @@ eastern standard -- cocktails, sit down new american, dessert
 Nathalie wine bar -- sister to Haley.henry  
 Futago udon
 
-## Allston
+### Allston
 Dolphin Bay -- Taiwanese, shaved snow, boba  
 Coreanos -- korean fusion, Mexican  
 Gen sou en -- teahouse, brookline   
@@ -215,7 +215,7 @@ Cafe landwer -- open until 10p everyday
 Laughing Monk cafe -- omakase
 Glenville stops -- $1 oysters!
 
-## Jamaica Plain
+### Jamaica Plain
 Chilacates
 City feed -- coffee, sandwiches
 Tres Gatos -- tapas
@@ -249,11 +249,11 @@ Haley.henry wine bar
 Liberty hotel -- free coat check  
 Yvonne's -- downtown, cocktails  
 
-# Portland, maine
+## Portland, maine
 Bite of maine -- food truck, next to lighthouse amazing view  
 Duckfat  
 
-# San Francisco
+## San Francisco
 Limon Rotisserie - Mission, tapas  
 The blue fig -- mission, breakfast, café  
 Little gem -- hayes  
@@ -326,7 +326,7 @@ Saint Frank's -- Russian hill, cafe
 Fueling station -- Russian hill, cafe with more food  
 Dynamo -- coffee, donuts, mission  
 
-## Mission
+### Mission
 Bond  
 Skylark  
 Zietgeist-- beer garden  
@@ -337,12 +337,12 @@ El techo
 The vestry -- church turned bar  
 Latin america club -- super strong margaritas  
 
-## Polk
+### Polk
 Soda popinski  
 Lush lounge  
 Playland  
 
-## Soma
+### Soma
 Local edition  
 Raven -- playland esque  
 Biergarten -- civic center  
@@ -350,13 +350,13 @@ Novela -- bar
 Mikeller -- beer  
 Bergerac -- lounge/bar, club upstairs  
 
-## Japantown
+### Japantown
 Do re mi karoake  
 
-## North beach
+### North beach
 Devils acre -- local ed owners  
 
-# Oakland/Berkeley
+## Oakland/Berkeley
 Shandong restaurant -- oakland chinatown  
 328 10th St, Oakland, CA 94607  
 (b/t Webster St & Harrison St) in Oakland Chinatown  
@@ -412,7 +412,7 @@ Romeo's coffee
 Taphause - german pub, durant  
 Spats - university  
 
-# South Bay
+## South Bay
 Kotetsu, santa clara, ramen  
 La panotiq - castro, café, study  
 Red hot wok -- taiwanese, stevens creek  
@@ -514,11 +514,8 @@ kang ho dong baek jeong -- ktown kbbq
 Beauty & Essex -- speakeasy restaurant, LES  
 Spreadhouse -- Les cafe, beer, food  
 
-# Chicago
+## Chicago
 Stans donut  
 Au cheval  
 Green street smoked meats -- bbq  
-Intelligentsia coffee  
-
-# Taipei
-Bar pun -- xin yi an he  
+Intelligentsia coffee 
