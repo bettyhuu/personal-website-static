@@ -69,10 +69,10 @@ Roost bistro
 Itadaki izakaya  
 Estragon -- tapas  
 The oak room -- $$$, cocktails  
-Select oyster bar -- newbury
-Bar mezzana
-Greco -- fast casual greek
-Darryl's -- soul food, sax music, good for brunch
+Select oyster bar -- newbury  
+Bar mezzana  
+Greco -- fast casual greek  
+Darryl's -- soul food, sax music, good for brunch  
 Mike's city diner  
 
 ### North End
@@ -130,13 +130,13 @@ Loyal nine -- kendall, ultra hip coffee with patio, restaurant
 Curio coffee -- cambridge  
 Cafe sushi -- central  
 Bourbon coffee -- Porter, cafe, smoothies, good for working  
-Broadstreet coffee roasters -- brunch, cambridge
-Pagu cafe -- central
-Yume ga arukara -- udon, katare sister restaurant
-Abide -- inside middlesex lounge, boba
-Forge cafe -- Somerville, also ice cream
-Momo n curry -- Somerville
-Juliet -- cafe, brunch, fine dining dinner, union sq
+Broadstreet coffee roasters -- brunch, cambridge  
+Pagu cafe -- central  
+Yume ga arukara -- udon, katare sister restaurant  
+Abide -- inside middlesex lounge, boba  
+Forge cafe -- Somerville, also ice cream  
+Momo n curry -- Somerville  
+Juliet -- cafe, brunch, fine dining dinner, union sq  
 
 #### Seaport
 Tavern road -- seaport, good late night, 5-7pm happy hour M-F  
@@ -159,9 +159,9 @@ Coppersmith -- food trucks and rooftop bars
 Smoke shop -- bbq  
 La casa de pedro tapas and ceviche bar  
 Fromage -- broadway  
-Gather
-Bartaco
-Fuku – david chang
+Gather  
+Bartaco  
+Fuku – david chang fast casual  
 
 ### Chinatown
 Dumpling house -- chinatown  
@@ -192,9 +192,9 @@ La colombe -- south station, cafe
 Amateras ramen  
 O ya -- $$$$, sushi  
 Parish Café -- chef created sandwiches, Arlington  
-Mike & Patty's
-Nahita -- latin-asian, cocktails, ceviche
-Kamakura -- Japanese, rooftop lounge
+Mike & Patty's  
+Nahita -- latin-asian, cocktails, ceviche  
+Kamakura -- Japanese, rooftop lounge  
 
 ### Fenway
 Hojoko -- fenway, asian fusion  
@@ -211,9 +211,9 @@ Futago udon
 Dolphin Bay -- Taiwanese, shaved snow, boba  
 Coreanos -- korean fusion, Mexican  
 Gen sou en -- teahouse, brookline   
-Cafe landwer -- open until 10p everyday
-Laughing Monk cafe -- omakase
-Glenville stops -- $1 oysters!
+Cafe landwer -- open until 10p everyday  
+Laughing Monk cafe -- omakase  
+Glenville stops -- $1 oysters!  
 
 ### Jamaica Plain
 Chilacates
