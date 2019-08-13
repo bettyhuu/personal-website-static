@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the list"
-date: 2019-03-17 21:17:45 -0500
+date: 2019-08-12 21:17:45 -0500
 categories: jekyll update
 ---
 ## Boston
@@ -66,14 +66,16 @@ Terra -- eataly
 Toro -- Spanish tapas  
 Frenchie -- brunch  
 Roost bistro  
-Itadaki izakaya  
-Estragon -- tapas  
-The oak room -- $$$, cocktails  
-Select oyster bar -- newbury  
-Bar mezzana  
-Greco -- fast casual greek  
-Darryl's -- soul food, sax music, good for brunch  
-Mike's city diner  
+Whaling in Oklahoma -- American Japanese, tapas
+Itadaki izakaya
+Estragon -- tapas
+The oak room -- $$$, cocktails
+Select oyster bar -- newbury
+Bar mezzana
+Greco -- fast casual greek
+Darryl's -- soul food, sax music, good for brunch
+Mike's city diner
+Lions tail
 
 ### North End
 Pomodoro -- north end  
@@ -123,20 +125,25 @@ Felipe's -- Mexican, bar
 Cafe du pays -- french  
 Café Luna -- brunch  
 Noca provisions -- café  
-Sugidama Soba & Izakaya -- noodles, davis sq, izakay, sushi bar  
-Martsa on elm -- himalayan/nepalese, davis sq, seafood  
-Honeycomb creamery -- davis, ice cream  
-Loyal nine -- kendall, ultra hip coffee with patio, restaurant  
-Curio coffee -- cambridge  
-Cafe sushi -- central  
-Bourbon coffee -- Porter, cafe, smoothies, good for working  
-Broadstreet coffee roasters -- brunch, cambridge  
-Pagu cafe -- central  
-Yume ga arukara -- udon, katare sister restaurant  
-Abide -- inside middlesex lounge, boba  
-Forge cafe -- Somerville, also ice cream  
-Momo n curry -- Somerville  
-Juliet -- cafe, brunch, fine dining dinner, union sq  
+Sugidama Soba & Izakaya -- noodles, davis sq, izakay, sushi
+bar
+Martsa on elm -- himalayan/nepalese, davis sq, seafood
+Sarma -- Mediterranean
+Oleana -- medit
+Honeycomb creamery -- davis, ice cream
+Loyal nine -- Cambridge
+Curio coffee -- cambridge
+Cafe sushi -- central
+Bourbon coffee -- Porter, cafe, smoothies, good for working
+Broadstreet coffee roasters -- brunch, cambridge
+Pagu cafe -- central
+Yume ga arukara -- udon, katare sister restaurant
+Abide -- inside middlesex lounge, boba
+Forge cafe -- Somerville, also ice cream
+Momo n curry -- Somerville
+Juliet -- cafe, brunch, fine dining dinner, union sq
+Bronwyn -- German
+Zinnekins Belgian waffle 
 
 ### Seaport
 Tavern road -- seaport, good late night, 5-7pm happy hour M-F  
@@ -148,37 +155,37 @@ Sportello -- pasta
 Papagayo -- Mexican, seaport, margarita pitchers  
 James Hook and co. -- summer shack esque  
 The barking crab -- seafood  
-Publico street bistro & garden -- southie  
-Morton's steakhouse -- $$  
-Committee -- mediterranean, brunch, cocktails  
-Outlook kitchen and bar -- envoy hotel  
-City tap house  
-wagamama  
-Lolita's cocina and tequila bar  
-Coppersmith -- food trucks and rooftop bars  
-Smoke shop -- bbq  
-La casa de pedro tapas and ceviche bar  
-Fromage -- broadway  
-Gather  
-Bartaco  
-Fuku – david chang fast casual  
+Publico street bistro & garden -- southie
+Morton's steakhouse -- $$
+Committee -- mediterranean, brunch, cocktails
+Outlook kitchen and bar -- envoy hotel
+City tap house
+wagamama
+Lolita's cocina and tequila bar
+Coppersmith -- food trucks and rooftop bars
+Smoke shop -- bbq
+La casa de pedro tapas and ceviche bar
+Fromage -- broadway
+Gather
+Bartaco
+Fuku – david chang
 
 ### Chinatown
-Dumpling house -- chinatown  
-Jaho Coffee Roasters & wine bar -- chinatown, open late  
-Shojo -- chinatown, asian fusion small plates/bar  
-Hot eastern  
-Windsor cafe -- dim sum  
-5 spices house  
-Crave -- chinatown, korean fried chicken/japanese place  
-Pho pasteur -- chinatown  
-China pearl -- dim sum, chinatown  
-Gene's Flatbread café -- hand pulled noodles  
-Taiwan café  
-BLR by Shojo  
-Q instrument -- hot pot  
-Shabu Zen  
-Ruckus -- shojo, ramen  
+Dumpling house -- chinatown
+Jaho Coffee Roasters & wine bar -- chinatown, open late
+Shojo -- chinatown, asian fusion small plates/bar
+Hot eastern
+Windsor cafe -- dim sum
+5 spices house
+Crave -- chinatown, korean fried chicken/japanese place
+Pho pasteur -- chinatown
+China pearl -- dim sum, chinatown
+Gene's Flatbread café -- hand pulled noodles
+Taiwan café
+BLR by Shojo
+Q instrument -- hot pot
+Shabu Zen
+Ruckus -- shojo, ramen
 
 ### Downtown/FIDI
 Ogawa café -- downtown, good for studying, has lunch foods, matcha  
@@ -187,33 +194,35 @@ Oisa Ramen Slurp & Go -- ramen
 Bogie's place -- steakhouse, $$$, south station  
 George howell coffee -- downtown crossing, coffee  
 Thinking cup coffee bar -- downtown crossing, also has lunch food  
-Good life -- basement club, also food  
-La colombe -- south station, cafe  
-Amateras ramen  
-O ya -- $$$$, sushi  
-Parish Café -- chef created sandwiches, Arlington  
-Mike & Patty's  
-Nahita -- latin-asian, cocktails, ceviche  
-Kamakura -- Japanese, rooftop lounge  
+Good life -- basement club, also food
+La colombe -- south station, cafe
+Amateras ramen
+O ya -- $$$$, sushi
+Parish Café -- chef created sandwiches, Arlington
+Mike & Patty's
+Nahita -- latin-asian, cocktails, ceviche
+Kamakura -- Japanese, rooftop
 
 ### Fenway
-Hojoko -- fenway, asian fusion  
-The Hawthorne -- cocktail bar, Cheese plates  
-Jyuba  
-Honeygrow  
-Eventtide --seafood  
-Sweet cheeks q -- bbq  
-eastern standard -- cocktails, sit down new american, dessert  
-Nathalie wine bar -- sister to Haley.henry  
+Hojoko -- fenway, asian fusion
+The Hawthorne -- cocktail bar, Cheese plates
+Jyuba
+Honeygrow
+Fools errand -- cocktail, small bites
+Eventtide -- seafood
+Sweet cheeks q -- bbq
+Nathalie wine bar -- sister to Haley.henry
+Eastern standard
+Time out market
 Futago udon
 
 ### Allston
-Dolphin Bay -- Taiwanese, shaved snow, boba  
-Coreanos -- korean fusion, Mexican  
-Gen sou en -- teahouse, brookline   
-Cafe landwer -- open until 10p everyday  
-Laughing Monk cafe -- omakase  
-Glenville stops -- $1 oysters!  
+Dolphin Bay -- Taiwanese, shaved snow, boba
+Coreanos -- korean fusion, Mexican
+Cafe landwer -- open until 10p everyday
+Laughing Monk cafe -- omakase
+Glenville stops -- $1 oysters!
+Prairiefire Brookline -- wood fired
 
 ### Jamaica Plain
 Chilacates
@@ -249,9 +258,21 @@ Haley.henry wine bar
 Liberty hotel -- free coat check  
 Yvonne's -- downtown, cocktails  
 
-## Portland, maine
+## Portland, ME
 Bite of maine -- food truck, next to lighthouse amazing view  
 Duckfat  
+
+## Providence, RI
+Providence
+Sydney -- australian café
+Dave's coffee
+Big King
+Cafe in the dean hotel
+North
+Persimmon
+Oberlin – seafood, pasta
+Fortnight wine bar
+Buck town -- southern
 
 ## San Francisco
 Limon Rotisserie - Mission, tapas  
