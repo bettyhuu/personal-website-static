@@ -18,7 +18,7 @@ title: bert's website
 description: >- # this means to ignore newlines until "baseurl:"
   This is Betty's first attempt at making a static website to finally use the
   domain name she has owned for so long. Will contain her coveted, personally curated
-  OneNote list of restaurants categorized by city. Check back later, friends.
+  list of restaurants categorized by city. Check back later, friends.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bettyhu.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -26,6 +26,7 @@ github_username:  bettyhuu
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 theme: minima
 plugins:
   - jekyll-feed
