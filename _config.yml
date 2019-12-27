@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   domain name she has owned for so long. Will contain her coveted, personally curated
   list of restaurants categorized by city. Check back later, friends.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bettyhu.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bettyhu.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  bettyhuu
 
