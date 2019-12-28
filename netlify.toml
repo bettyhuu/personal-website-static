@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "https://bettyhucom.netlify.com/*"
+  to = "https://www.bettyhu.com/:splat"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
