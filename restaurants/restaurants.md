@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "the list"  
-date: 2019-08-12 21:17:45 -0500  
+date: 2020-01-03 21:17:45 -0500  
 categories: jekyll update  
 ---  
 ## Boston  
@@ -199,7 +199,6 @@ Amateras ramen
 O ya -- $$$$, sushi  
 Parish Café -- chef created sandwiches, Arlington  
 Mike & Patty's  
-Nahita -- latin-asian, cocktails, ceviche  
 Kamakura -- Japanese, rooftop  
   
 ### Fenway  
@@ -431,6 +430,7 @@ La panotiq - college, café
 Romeo's coffee  
 Taphause - german pub, durant  
 Spats - university  
+donato & co -- carlin recommended
   
 ## South Bay  
 Kotetsu, santa clara, ramen  
